@@ -107,4 +107,8 @@ div {
 ```
 #### Preview:
 
+<img src="markdownmonstericon.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+
 ![Preview 1](Photos/Preview 1.png)
