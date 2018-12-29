@@ -59,8 +59,7 @@ body {
 }
 
 .da-flex {
-    background-color: transparent;
-}
+    background-color: transparent;}
 
 .da-layer {
     background-color: transparent !important
@@ -106,7 +105,8 @@ div {
 
 ```
 #### Preview:
-
+<script>alert(0)</script>
 <img src="https://raw.githubusercontent.com/n3oney/BetterDiscordVibrancy/master/Photos/Preview%201.png"
-     alt="Preview 1"
-     style="float: left; margin-right: 10px;" onload="alert('please download')"/>
+     alt="Preview 1"/>
+     
+
