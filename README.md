@@ -107,8 +107,6 @@ div {
 ```
 #### Preview:
 
-<img src="markdownmonstericon.png"
-     alt="Markdown Monster icon"
+<img src="https://raw.githubusercontent.com/n3oney/BetterDiscordVibrancy/master/Photos/Preview%201.png"
+     alt="Preview 1"
      style="float: left; margin-right: 10px;" />
-
-![Preview 1](Photos/Preview 1.png)
