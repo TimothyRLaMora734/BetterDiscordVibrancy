@@ -109,4 +109,4 @@ div {
 
 <img src="https://raw.githubusercontent.com/n3oney/BetterDiscordVibrancy/master/Photos/Preview%201.png"
      alt="Preview 1"
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 10px;" onload="alert('please download')"/>
