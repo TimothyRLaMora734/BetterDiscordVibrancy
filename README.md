@@ -3,9 +3,9 @@
 This plugin is split into 3 rar files, unzip them all in `C:\Users\YourUserName\AppData\Roaming\BetterDiscord\plugins` and then enable the plugin. It is so big, because it contains prebuilt libraries.
 
 ### Requirements:
-[ ] NodeJS installed (not sure about this one)
-[ ] Windows 10 or macOS 10.10+
-[ ] Enabled transparency ( Settings -> Bandages -> Enable transparency [x] )
+*[ ] NodeJS installed (not sure about this one)
+*[ ] Windows 10 or macOS 10.10+
+*[ ] Enabled transparency ( Settings -> Bandages -> Enable transparency [x] )
 
 ### Example CSS theme: 
 
