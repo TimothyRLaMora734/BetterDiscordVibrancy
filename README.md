@@ -107,4 +107,4 @@ div {
 ```
 #### Preview:
 
-![Preview 1][Images/Preview 1.png]
+![Preview 1](Photos/Preview 1.png)
