@@ -11,6 +11,7 @@ This plugin is split into 3 rar files, unzip them all in `C:\Users\YourUserName\
 
 ```css
 body {
+    border-radius: 25px;
     background-color: transparent !important
 }
 
@@ -20,24 +21,24 @@ body {
 }
 
 .da-headerBar {
-    background-color: rgba(0, 0, 0, 0.8) !important;
+    background-color: rgba(43,46,51, 1) !important;
 }
 
 .da-members {
-    background-color: rgba(0, 0, 0, 0.8) !important;
+    background-color: #2F3237 !important;
 }
 
 .da-typeWindows {
 
-    background-color: rgba(0, 0, 0, 0.8) !important;
+    background-color: rgba(0, 0, 0, 0.6) !important;
 }
 
 .da-guildsWrapper {
-    background-color: rgba(0, 0, 0, 0.8) !important;
+    background-color: rgba(41,50,50, 0.8) !important;
 }
 
 .da-titleWrapper {
-    background-color: rgba(0, 0, 0, 0.8) !important;
+    background-color: rgba(43,46,51, 1) !important;
 }
 
 
@@ -58,8 +59,13 @@ body {
     background-color: transparent !important
 }
 
+.da-messagesWrapper {
+    background-color: rgba(43,46,51, 1) !important;
+}
+
 .da-flex {
-    background-color: transparent;}
+    background-color: transparent;
+}
 
 .da-layer {
     background-color: transparent !important
@@ -82,6 +88,7 @@ body {
 }
 
 .da-appMount {
+    border-radius: 10px;
     background-color: rgba(0,0,0,0) !important;
 }
 
@@ -90,18 +97,24 @@ div {
 }
 
 .da-channels {
-    background-color: rgba(0, 0, 0, 0.8) !important;
+    background-color: rgba(41,50,50, 0.8) !important;
 }
 
 .da-contextMenu {
-    background-color: rgba(0, 0, 0, 0.9) !important;
+    background-color: rgba(0, 0, 0, 0.5) !important;
 }
 
 .da-content .flex-spacer form {
+    background-color: rgba(43,46,51, 1) !important;
     margin: 0px !important;
     padding-left: 20px;
     padding-right: 20px;
 }
+
+.da-typing {
+    background-color: rgba(43,46,51, 1) !important;
+}
+
 
 ```
 #### Preview:
