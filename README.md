@@ -107,4 +107,4 @@ div {
 ```
 #### Preview:
 
-- [ ] Photos soon
+![Preview 1][Images/Preview 1.png]
