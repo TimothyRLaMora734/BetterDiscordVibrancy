@@ -105,7 +105,6 @@ div {
 
 ```
 #### Preview:
-<script>alert(0)</script>
 <img src="https://raw.githubusercontent.com/n3oney/BetterDiscordVibrancy/master/Photos/Preview%201.png"
      alt="Preview 1"/>
      
