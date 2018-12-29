@@ -118,7 +118,7 @@ div {
 
 ```
 #### Preview:
-<img src="https://raw.githubusercontent.com/n3oney/BetterDiscordVibrancy/master/Photos/Preview%201.png"
-     alt="Preview 1"/>
+<img src="https://raw.githubusercontent.com/n3oney/BetterDiscordVibrancy/master/Photos/Preview.png"
+     alt="Preview"/>
      
 
